@@ -91,6 +91,7 @@ public class DashboardActivity extends AppCompatActivity implements GoogleApiCli
         if(CommonUtils.hasNoText(someData.getString("user_id", ""))){
 
         }
+        user = new User();
         user.setId(someData.getString("user_id", ""));
         //myProfilePic = someData.getString("profilePic", "");
         String myName = someData.getString("name", "");

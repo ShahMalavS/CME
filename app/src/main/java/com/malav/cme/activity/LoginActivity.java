@@ -204,6 +204,8 @@ public class LoginActivity extends AppCompatActivity {
                                 Log.d(TAG, "onCompleted: email: " + user.optString("email"));
                                 Log.d(TAG, "onCompleted: name: " + user.optString("name"));
                                 Log.d(TAG, "onCompleted: graph: " + graphResponse.toString());
+                                String id = user.optString("id");
+                                userD.setProfilePic("http://graph.facebook.com/" + id + "/picture?type=large");
                                 if (CommonUtils.isNotNull(userD.getEmail())) {
                                     new CheckUserInDB(userD).execute();
                                 }
@@ -537,6 +539,7 @@ public class LoginActivity extends AppCompatActivity {
                 List<NameValuePair> para = new ArrayList<NameValuePair>();
                 para.add(new BasicNameValuePair("emailId", user.getEmail()));
                 para.add(new BasicNameValuePair("name", user.getName()));
+                para.add(new BasicNameValuePair("pic", user.getProfilePic()));
                 Log.d("request!", "starting");
 
                 JSONObject json = JSONfunctions.makeHttpRequest(QueryMapper.URL_CHECK_EMAIL, "POST", para);

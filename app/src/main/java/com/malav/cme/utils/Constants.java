@@ -14,6 +14,12 @@ public class Constants {
             R.drawable.profile,
             R.drawable.profile,
             R.drawable.profile,
+            R.drawable.calendar,
             R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.profile,
+            R.drawable.change_password,
+            R.drawable.logout
     };
 }
