@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/.android/build-cache/df95f56d10dd66b33aeb7f4ad75bec13e55fb61c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60057709995aa3ffd3cca9fe124ab80f6ab910bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8402e71723d7023e8e20b9974afb98341acf97f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_6a96a9df203e2778ae69c35749d755d4c6725abc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/.android/build-cache/d849c9cc4e3bf5a2e62f989feeb7517a7dfc4236/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f439a7451954844b02809358944cad51e7a6f945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/.android/build-cache/0f343d2a7ebf2d8f6c7348df6b2fe7236aadbe72/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12cd8bbe6ef310efebbf7447da462879b7f08b99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/.android/build-cache/010d34b8a2c05e08ce00d17acdfe0555fd9a66b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3349266724a8553186e8bbf58fa7623b378472b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/.android/build-cache/d761a132f4ca3762979fc69069177cf9868484dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d28dc621234876e63eddcfaa963c62f5f283e4f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/.android/build-cache/d90263565068b1011a7f3c885b9ae32186e62d4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9f93780ce5262fb1b82d015ecb20f0ad33b64c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2dd5b7c6cca6cd900a9a98deadcea2b4a973303a">
+        <dex dex="/Users/shahmalav/androidWS/CME/CME/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d169cdac72727b5766ce02b4c4204a82c5e1d2f/classes.dex" />
+    </item>
+
+</items>
